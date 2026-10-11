@@ -1,0 +1,2 @@
+* AMS(Anti Missile System) [#i09f0aa7]
+AMLと制御システムをセットにした言い方。
