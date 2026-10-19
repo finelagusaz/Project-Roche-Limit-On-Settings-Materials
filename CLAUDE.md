@@ -8,6 +8,7 @@ Project Roche Limit（SS・伺かゴースト）の設定資料。読み手は�
 - `extreme_world.md`: Extreme World の用語（本体とは別）
 - `template.md`: 人物・用語の書式と共通の決まり。項目を足す・直すときは先に読む
 - `README.md`: 利用条件（FSW 宣言）と借用設定の出典。他作品の設定を借りたらここにも書く
+- `ss_backlog.md`: SS（`../Project-Roche-Limit-Crossing`）から移植する項目のバックログ。移したら状態を ✅ にする
 
 ## 目次の更新
 
