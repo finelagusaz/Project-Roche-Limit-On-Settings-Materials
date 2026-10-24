@@ -24,4 +24,7 @@ python3 scripts/toc.py on_sttings_materials.md
 ## 作業の進め方
 
 - 設定の解釈が分かれるところは推測で埋めず、作者に確認する
+- SS やゴーストの資料から設定を取り込むときは、スキル `import-settings` の手順に従う
+- `scripts/replace_once.py`: 置き換え前の文字列が一度だけ現れることを確かめてから書き換える
+- `scripts/read_any.py`: utf-8 で読めなければ cp932 で読む（古いゴーストの memo 用）
 - コミットメッセージは `feat:` / `docs:` などの接頭辞のあとに日本語で書く
