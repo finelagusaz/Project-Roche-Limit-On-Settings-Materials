@@ -50,7 +50,7 @@ AskUserQuestion で一問ずつ聞く。まとめて聞かない。作者は質�
 
 ## 5. 確かめる
 
-- 見出しを足した・変えたら `python3 scripts/toc.py on_sttings_materials.md` で目次を作り直す。extreme_world.md の目次は手で直す
+- 見出しを足した・変えたら `python3 scripts/toc.py on_sttings_materials.md`（extreme_world.md なら `python3 scripts/toc.py extreme_world.md`）で目次を作り直す
 - `git diff -U0 | grep '^-'` で、消えた行が意図したものだけか確かめる
 - 目次に載る見出しが重なっていないか確かめる（2章の `####` 以下は重なってよい）
 - 並べて置いた結果、新しい食い違いが生まれていないか見る（例: 舞台の年と誕生日から年齢が決まってしまう）。見つけたら作者に聞く
